@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Regular.otf') format('opentype');
+}
+
+body {
+  font-family: 'OpenDyslexic', sans-serif;
+  background-color: #fdfaf6;
+  color: #333;
+}
